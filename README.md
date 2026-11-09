@@ -1,0 +1,2 @@
+# libretv-config
+libretv
