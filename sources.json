@@ -1,5 +1,5 @@
 {
-  "name": "LibreTV 自动源列表（2026-11-18 00:07 UTC 实测）",
+  "name": "LibreTV 自动源列表（2026-11-18 23:40 UTC 实测）",
   "version": 3,
   "sources": [
     {
@@ -8,8 +8,8 @@
       "isAdult": false
     },
     {
-      "name": "光速",
-      "url": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "name": "360",
+      "url": "https://360zy.com/api.php/provide/vod/",
       "isAdult": false
     },
     {
@@ -40,6 +40,11 @@
     {
       "name": "爱坤",
       "url": "https://ikunzyapi.com/api.php/provide/vod/",
+      "isAdult": false
+    },
+    {
+      "name": "爱奇艺",
+      "url": "https://iqiyizyapi.com/api.php/provide/vod",
       "isAdult": false
     },
     {
