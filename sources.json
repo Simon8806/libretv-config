@@ -1,5 +1,5 @@
 {
-  "name": "LibreTV 自动源列表（2026-11-24 03:33 UTC 实测）",
+  "name": "LibreTV 自动源列表（2026-11-25 01:42 UTC 实测）",
   "version": 3,
   "sources": [
     {
@@ -15,6 +15,11 @@
     {
       "name": "光速",
       "url": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "isAdult": false
+    },
+    {
+      "name": "无尽",
+      "url": "https://api.wujinapi.me/api.php/provide/vod/",
       "isAdult": false
     },
     {
