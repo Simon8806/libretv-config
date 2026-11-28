@@ -1,5 +1,5 @@
 {
-  "name": "LibreTV 自动源列表（2026-11-27 01:14 UTC 实测）",
+  "name": "LibreTV 自动源列表（2026-11-28 00:47 UTC 实测）",
   "version": 3,
   "sources": [
     {
@@ -10,6 +10,11 @@
     {
       "name": "360",
       "url": "https://360zy.com/api.php/provide/vod/",
+      "isAdult": false
+    },
+    {
+      "name": "光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/",
       "isAdult": false
     },
     {
@@ -63,6 +68,16 @@
       "isAdult": false
     },
     {
+      "name": "艾旦",
+      "url": "https://lovedan.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "虎牙",
+      "url": "https://huyazy.net/api.php/provide/vod/",
+      "isAdult": false
+    },
+    {
       "name": "豪华",
       "url": "https://haohuazy.com/api.php/provide/vod/",
       "isAdult": false
@@ -70,6 +85,11 @@
     {
       "name": "速播",
       "url": "https://subocj.com/api.php/provide/vod/",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰",
+      "url": "https://jyzyapi.com/provide/vod/",
       "isAdult": false
     },
     {
